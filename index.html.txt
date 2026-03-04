@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+<meta charset="UTF-8">
+<title>Grow & Glow PT</title>
+</head>
+<body>
+
+<h1>Grow & Glow PT – Personal Trainers Αθήνα</h1>
+<p>Personal training σε χώρο ειδικά διαμορφωμένο για την ασφάλεια και τη καλύτερη εξυπηρέτηση σας .</p>
+
+</body>
+</html>
